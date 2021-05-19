@@ -5,4 +5,4 @@ Increasing trends in Land Surface Temperature (LST) is crucial to counter the cl
 
 In this study, LST timeseries is decomposed into trend, seasonal and noise component to detect long-term climate change using Seasonal and Trend decomposition using Loess (STL). LST data is collected using MOD11A2 version 06, Level 3 for Abu Ali island, Saudi Arabia from 2010 to 2020.
 
-Seasonal land surface temperatures for year 2020 are plotted using rgee package in R which binds the google earth engine platform in R. You can access the code along with step by step guidance in this repository.    
+Seasonal land surface temperatures for year 2020 are plotted using rgee package in R which binds the google earth engine platform in R. You can access the code along with step by step guidance to recreate seasonal land surface temperature plots.    
